@@ -11,6 +11,5 @@ describe('this test checks all the buttons for the inventory page', () => {
         await expect(sauceInventory.addToCartbtnBackPack).toBeDisplayed();
         await expect(sauceInventory.addToCartbtnBackPack).toBeClickable();
         await sauceInventory.addToCartbtnBackPack.click();
-
     });
 });

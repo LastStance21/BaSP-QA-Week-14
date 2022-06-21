@@ -10,4 +10,4 @@ Just clone the repository, and run the terminal on your text editor, and and run
 
 ## Usage
 
-jus run the command *npx wdio run ./wdio.conf.js* and it should run alll the test especified on the spec folder.
+just run the command *npm run* and it should run alll the test especified on the spec folder.
